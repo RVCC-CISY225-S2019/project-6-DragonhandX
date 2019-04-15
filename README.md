@@ -23,6 +23,10 @@ You are going to have to download and add the files from your Project 5 into thi
 10. Add those screen grab pictures to the folder called readme-src in this repo.
 11. Edit this repo and add the images to the bottom of this page so that they display like the GH Pages image you see above.
 
+![GH Pages](https://github.com/RVCC-CISY225-S2019/project-6-DragonhandX/blob/master/readme-src/Screenshot_friend.png)
+
+![GH Pages](https://github.com/RVCC-CISY225-S2019/project-6-DragonhandX/blob/master/readme-src/Screenshot_sibling.png)
+
 **You are expected to do the Week 9 reading as preparation for this assignment. Also you must use our CSS formatting rules from the CISY 225 Style Guide.**
 
 **You Must Have a Perfect Project 5 Repo. Make all changes to P5 before starting this project. Your grade depends on this. If you need help, ask me for help.**
